@@ -1,0 +1,17 @@
+{
+    "name": "SignIn",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d5c73f19d4fcd46ccb7b34fa26afda8f",
+        "GUID:a22dd8bd04b8a49b3b20a9d7dc8c63b5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
